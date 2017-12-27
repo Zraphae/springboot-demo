@@ -1,0 +1,10 @@
+D:\workspace\testoauth2\src\main\java\cn\enn\testoauth2\interceptor\conf\MvcConfig.java
+D:\workspace\testoauth2\src\main\java\cn\enn\testoauth2\annotition\Authorization.java
+D:\workspace\testoauth2\src\main\java\cn\enn\testoauth2\conf\OAuth2SecurityConfiguration.java
+D:\workspace\testoauth2\src\main\java\cn\enn\testoauth2\conf\MethodSecurityConfig.java
+D:\workspace\testoauth2\src\main\java\cn\enn\testoauth2\Application.java
+D:\workspace\testoauth2\src\main\java\cn\enn\testoauth2\controller\OAuthController.java
+D:\workspace\testoauth2\src\main\java\cn\enn\testoauth2\resource\ResourceServerConfiguration.java
+D:\workspace\testoauth2\src\main\java\cn\enn\testoauth2\conf\OAuthConf.java
+D:\workspace\testoauth2\src\main\java\cn\enn\testoauth2\conf\AuthorizationServerConfiguration.java
+D:\workspace\testoauth2\src\main\java\cn\enn\testoauth2\interceptor\AuthorizationInterceptor.java
